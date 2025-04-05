@@ -3,7 +3,7 @@
 A fun and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**, with a twist — each player can only have **3 moves on the board at a time**! ✨
 
 ## Live Demo
-[Click here to play the game](https://your-deployed-link.com)
+[Click here to play the game](https://kasarapuvignesh.github.io/tic-tac-toe/) 
 
 ---
 
